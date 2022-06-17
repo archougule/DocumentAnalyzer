@@ -1,0 +1,9 @@
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\bin\Debug\netcoreapp3.1\Office.SpireOffice.deps.json
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\bin\Debug\netcoreapp3.1\Office.SpireOffice.dll
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\bin\Debug\netcoreapp3.1\Office.SpireOffice.pdb
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.SpireOffice.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.SpireOffice.AssemblyInfoInputs.cache
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.SpireOffice.AssemblyInfo.cs
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.SpireOffice.csproj.CoreCompileInputs.cache
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.SpireOffice.dll
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.SpireOffice.pdb

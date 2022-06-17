@@ -1,0 +1,5 @@
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.Spire.csproj.AssemblyReference.cache
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.Spire.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.Spire.AssemblyInfoInputs.cache
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.Spire.AssemblyInfo.cs
+D:\Users\tusahu\source\repos\DocumentAnalyzer\Office.Spire\obj\Debug\netcoreapp3.1\Office.Spire.csproj.CoreCompileInputs.cache

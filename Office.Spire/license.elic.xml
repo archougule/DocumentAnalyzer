@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<License Key="DzvJAQC5oLJ83FXftmNhPa80sU/bjX1oSSTyVTxkkXntBk45qvBj233WAy0lYqBppeOvsEJspyiyTC+BhjjYvBdRta03XWuF74HjwbDPiicM39QH9UTelNisDLIQ7pkR+nJePpQoRUAlgug1eONLqn7wKfGqY1Ropzjg/1d9KvVaOUgA/7zXlrgT9sFEJprYQeILc4FQSMuTKS16qobPETHQaW02TcDsmfI9YcHulItfW2YBPPklo6uJm5A7m0GDP4vpO6njnhOcyKa1M0WTPTwkJY8LyRra4pfQT/70960SFrXWTWQFGuipzoVyDoIj1rnxtX7eX7zl4P8ze1CZK1Ula6eCQ0lugesGVOUZpQiX19o2f5FnbXNL+yCpEZ8mRQzvlJwd8JMJ3HIfHXJcIVe8H16Dru+msYk+bUmCPU1JyK0+URFwD3UHanRDAo275YSBEDUXxRM6c8i/x+MKKsMIryEB8LiaRV3U0dsEjON4HGurQBCMdN6SI4Co7hDeAJbQXERudy/QHffzNiC4i+lC41B7FVXQ4pv5r7mjee+bEXrnSXcJSADL5GBL3k4CNNQ/52wn4U8BrHpQ0oQ1FN9PgS8g+XvmJjEnWVkMJy7jCalyV7yhFKqibVDQ5WEkcFzcyrOZbTLNk6tcwKyXhb/AFdMJH8d/aO3HnmxGv6GGmpJ1LYw4TrCx36aKjZ4J2XMBHSb4FueDukrdqBxO0mV73d0C+J43J/Vp1YoPbQ0uQrnNwcUF/0fs2UfnlpiPDwTUUl5/2UkHwEVt0lHr+Y9lWRwGvEM5mkXEZTpDDIzI9wHchlZ9FuNR3UgkfbhQxj7ZMTQQNBRrNlci3TvMQltVgY8hMtkwmF76ed0/LSMR9WpuDQieSwomiISucpatT1lPRqhI/excIMj3YlHuc0VWW4+0yjJEY7TLj9nUkwe0Lg/7zLkdNY1k3luu7G9BfbEaVKtL/uPAVp8m9fH98AVaQ+TvLHqXhT/Ys6rlXzRIwB7LIezjNiaN0BGTwaJ8KOB6oJc9MZVnWxr2XR3b05YKpVPBSPajMfaaC8gboSwmXeQ72Y64WhMFZrqvhVJtixGdbOeIYaWlfL0KrpyCBRXt20wKuTfDBBjBPtbRiDkYuCi2U6CLkO6CuBwwCgfgvgZTEp2grHsFy1NiQpSo0mc0qRf5ZzKUNUwJB24xp6OQq2qZjeJY372RboTTwLxkhzYF2ngsby7bYvQ1eX7LJp2wvsIw4/3ZeVih8fkWKSrvIgd/rMgtPj+hJ5dcqUq9ZSzpELEX84acCo442sNkPssxpOW8uRkq3RdCoWgw1ERAvY3fnoN36SDPCY7pjSjZQhpsPYd8nhsaKAvXkdsq7c7u8jJLCgS/awLcCA8yx4E4v+w/PQtdFhBwVmlqIY69Np8Jwv0RrOF4T+lZKqQhAInZTTv+k4GHi2XOuoTxZyGpgdkp67a6oqBJTdHbSSRhGh+lgcja1w6uSPnRh4myaxtTizFENbOlNfPDHksw1lTIIcrpJoabSF9fAqS36LntkPx6clCs4GZBXm8CIMirVl4XW6R2mkUwrCecVN1ZPtggpXcA9DxwM2hdDuVuc6Ma" Version="1.3">
+	<Type>Runtime</Type>
+	<Username>Kiran Purushotham</Username>
+	<Email>KPURUSHOTHAM@DELOITTE.COM</Email>
+	<Organization>Deloitte Services LP</Organization>
+	<LicensedDate>2022-05-04T12:00:00Z</LicensedDate>
+	<ExpiredDate>2023-05-04T12:00:00Z</ExpiredDate>
+	<Products>
+		<Product>
+			<Name>Spire.Office for .NET</Name>
+			<Version>7.3</Version>
+			<Subscription>
+				<Name>Developer Subscription</Name>
+				<NumberOfPermittedDeveloper>4</NumberOfPermittedDeveloper>
+				<NumberOfPermittedSite>4</NumberOfPermittedSite>
+			</Subscription>
+		</Product>
+	</Products>
+	<Issuer>
+		<Name>e-iceblue</Name>
+		<Email>sales@e-iceblue.com</Email>
+		<Url>http://www.e-iceblue.com</Url>
+	</Issuer>
+</License>
